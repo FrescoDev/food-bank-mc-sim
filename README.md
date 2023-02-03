@@ -105,7 +105,7 @@ The API requests are handled by the `InputFields.tsx` component. It sends a POST
 - Assumptions made about the Monte Carlo model:
     - Days open and not open do not change
     - The user can set the restock level (and this is constant per box type)
-  - Backend code could be modularised/split into separate files
-- Nothing around deployment or CI
+- Backend code could be modularised/split into separate files
+- Nothing done around deployment or CI
 - No accessibility or test automation sensibilites made for UI.
 
