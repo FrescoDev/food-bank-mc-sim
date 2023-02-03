@@ -39,7 +39,7 @@ The response will contain the following parameters:
 ### Constants
 The following constants are used in the simulation:
 - `FOOD_REFILL_THRESHOLD`: The number of boxes of food below which the food bank will restock
-- `LOGGING`: A flag to enable logging of the current state of the food bank
+- `LOGGING`: A flag to enable logging of the current state of the food bank (prints out to console)
 
 ### Classes
 The following classes are used in the simulation:
